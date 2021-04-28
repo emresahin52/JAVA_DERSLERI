@@ -1,0 +1,16 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		int deger = 1223344321534;
+		byte sayi = 12;
+		String mtein = "Yeni Baþladýn Sakýn pes etme";
+		
+		
+		
+		
+		
+
+	}
+
+}

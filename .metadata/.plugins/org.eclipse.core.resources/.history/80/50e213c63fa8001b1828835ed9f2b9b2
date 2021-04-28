@@ -1,0 +1,7 @@
+package ders2ödev;
+
+public class egitimler {
+	String dersler;
+	dersler[] = {"Yazýlým Geliþtirici Kampý (C# + ANGULAR)" + "Yazýlým Geliþtirici Kampý (JAVA + REACT)"};
+
+}

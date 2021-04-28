@@ -1,0 +1,12 @@
+package enBuyukSayi;
+
+public class Main {
+
+	public static void main(String[] args) {
+		int sayi1 = 100;
+		int sayi2 = 534;
+		int sayi3 = 54234;
+
+	}
+
+}

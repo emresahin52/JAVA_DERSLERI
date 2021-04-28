@@ -1,0 +1,15 @@
+package ders2ödev;
+
+public class CourseManager {
+
+	public CourseManager() {
+		System.out.println("Engin DEMİROĞ");
+	}
+	
+	
+ int ders_no;
+ String egitmen;
+ int saati;
+ 
+ 
+}

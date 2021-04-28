@@ -1,0 +1,12 @@
+package ders2ödev;
+
+public class egitimler {
+	
+
+	egitimler [] programlar = new egitimler [2] ; //{"Yazýlým Geliþtirici Kampý (C# + ANGULAR)" + "Yazýlým Geliþtirici Kampý (JAVA + REACT)"};
+	programlar[0]="Yazýlým Geliþtirici Kampý (C# + ANGULAR)";
+	programlar[0]="Yazýlým Geliþtirici Kampý (JAVA + REACT)";
+	int [] values; 
+	values = new int[2];
+}
+};

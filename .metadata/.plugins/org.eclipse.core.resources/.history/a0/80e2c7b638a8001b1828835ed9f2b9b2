@@ -1,0 +1,13 @@
+public class Main {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Merhaba Java'ya HoşGeldin");
+		
+		int sayi = 10;	
+		System.out.println("Öğrenci Sayım: " + sayi);
+		
+
+	}
+
+}
